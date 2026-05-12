@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+auth_sessions/
+auth_info_baileys/
+data/
+.env
+*.log
+logs/
+whatsapp-qr.png
+.git/
